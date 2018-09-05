@@ -246,3 +246,4 @@ C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.csproj.CoreC
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.csproj.CopyComplete
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.pdb
+C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.csprojAssemblyReference.cache
