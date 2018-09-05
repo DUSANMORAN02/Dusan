@@ -242,7 +242,6 @@ C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\de\DevExpress.XtraTreeList
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\es\DevExpress.XtraTreeList.v18.1.resources.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\ja\DevExpress.XtraTreeList.v18.1.resources.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\ru\DevExpress.XtraTreeList.v18.1.resources.dll
-C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.csprojAssemblyReference.cache
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.csproj.CoreCompileInputs.cache
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.csproj.CopyComplete
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.dll
