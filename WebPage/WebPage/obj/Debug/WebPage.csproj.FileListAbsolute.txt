@@ -1,3 +1,5 @@
+C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\DevExpress.Dashboard.v18.1.Core.xml
+C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\de\DevExpress.XtraBars.v18.1.resources.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\WebPage.dll.config
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\WebPage.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\WebPage.pdb
@@ -96,7 +98,6 @@ C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\DevExpress.Sparkline.v18.1
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\DevExpress.Xpo.v18.1.xml
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\DevExpress.XtraGauges.v18.1.Core.xml
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
-C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\DevExpress.Dashboard.v18.1.Core.xml
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\DevExpress.Dashboard.v18.1.Web.xml
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\DevExpress.TreeMap.v18.1.Core.xml
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\DevExpress.Map.v18.1.Core.xml
@@ -234,7 +235,6 @@ C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\de\DevExpress.XtraLayout.v
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\es\DevExpress.XtraLayout.v18.1.resources.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\ja\DevExpress.XtraLayout.v18.1.resources.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\ru\DevExpress.XtraLayout.v18.1.resources.dll
-C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\de\DevExpress.XtraBars.v18.1.resources.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\es\DevExpress.XtraBars.v18.1.resources.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\ja\DevExpress.XtraBars.v18.1.resources.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\bin\ru\DevExpress.XtraBars.v18.1.resources.dll
@@ -246,4 +246,3 @@ C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.csproj.CoreC
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.csproj.CopyComplete
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.dll
 C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.pdb
-C:\Users\mvdus\Source\Repos\Dusan\WebPage\WebPage\obj\Debug\WebPage.csprojAssemblyReference.cache
